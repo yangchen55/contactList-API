@@ -1,0 +1,16 @@
+i {
+  width: 30px;
+  height: 30px;
+  background: rgb(5, 23, 5);
+  border-radius: 50%;
+  padding-left: 8px;
+  padding-top: 7px;
+  color: white;
+}
+i:hover {
+  background-color: brown;
+}
+
+li {
+  margin-bottom: 1rem;
+}
